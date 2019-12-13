@@ -1,7 +1,9 @@
 <ul class="social">
   {% for network in site.social %}
   <li>
-    <a href="{{ network.url }}"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+    <a href="{{ network.url }}">
+      <i class="fab fa-{{ network.title }}" title="{{ network.description }}"></i>
+    </a>
   </li>
   {% endfor %}
 </ul>

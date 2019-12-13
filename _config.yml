@@ -12,12 +12,19 @@ author:
 social:
   - title: twitter
     url: https://twitter.com/bhullnatik
+    description: Twitter
   - title: stack-overflow
     url: https://stackoverflow.com/story/bhullnatik
+    description: StackOverflow
   - title: linkedin
     url: https://www.linkedin.com/in/bhullnatik/
+    description: LinkedIn
   - title: github
     url: https://github.com/bhullnatik
+    description: GitHub
+  - title: dev
+    url: https://dev.to/bhullnatik
+    description: dev.to
 
 # Build settings
 markdown: kramdown
